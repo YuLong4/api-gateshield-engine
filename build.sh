@@ -1,0 +1,1 @@
+docker build -f ./Dockerfile -t api-gateshield-engine:0.0.1 .
